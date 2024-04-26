@@ -1,0 +1,9 @@
+.heart{
+    position:relative;
+    height: 160px;
+    width: 100px;
+    background: #d16ba5;
+    border-radius: 200px 200px 0 0;
+    transform: rotate(45deg);
+}
+
